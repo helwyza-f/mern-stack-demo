@@ -1,6 +1,6 @@
-# mern-stack-example
+# mern-stack-Demo
 Mern Stack code for the [Mern Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
-
+This is demo website for fullstack mern project that i struggle to acomplish because of mongoose library didnt work. I finally fixed the problem with mongodb package instead of using mongoose
 [![CI](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml/badge.svg)](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml)
 
 ## How To Run
